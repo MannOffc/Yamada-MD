@@ -1,19 +1,20 @@
+# Yamada - MD Is Bot WhatsApp Simple Cloning Nao-MD
 <p align="center">
-    <img src="./media/own.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/363a869d9e32ca8d21b47.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Nao-Botz V5</h1>
+<h1 align="center">Yamada - MD</h1>
 
 </p>
 <p align="center">
-<a href="https://github.com/ShirokamiRyzen"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ShirokamiRyzen-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MannOffc"><img title="Author" src="https://img.shields.io/badge/AUTHOR-MannHost-green.svg?style=for-the-badge&logo=github"></a>
 
 ##
 <p align="center">
 <a><img src="https://img.shields.io/badge/Maintaned%3F-Actively%20Developed-blue?style=flat-square"></a>
 
 ##
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=6285864034767&text=.menu) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285174269046) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=62896296205740&text=.menu) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62896296205744) 
 
 
 
@@ -170,7 +171,8 @@ Set prefix
 [![ImYanXiao](https://github.com/ImYanXiao.png?size=100)](https://github.com/ImYanXiao)
 [![Xnuvers007](https://github.com/Xnuvers007.png?size=100)](https://github.com/Xnuvers007)
 [![ShirokamiRyzen](https://github.com/ShirokamiRyzen.png?size=100)](https://github.com/ShirokamiRyzen)
+[![MannHost](https://github.com/MannOffc.png?size=100)](https://github.com/MannOffc)
 #### Contributor
 [![ShirokamiRyzen](https://github.com/ShirokamiRyzen.png?size=100)](https://github.com/ShirokamiRyzen)
-
+[![MannHost](https://github.com/MannOffc.png?size=100)](https://github.com/MannOffc)
 ---------
