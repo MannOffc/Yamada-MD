@@ -20,9 +20,9 @@ say('Nao-Botz ESM', { font: 'chrome', align: 'center', gradient: ['blue', 'green
 say(`Whatsapp Bot MD by Shirokami Ryzen`, { font: 'console', align: 'center', gradient: ['blue', 'green'] })
 
 console.log(`
-Nao Bot V5
-Author: Shirokami Ryzen
-WA    : +6285174269046
+Yamada-MD
+Author: MannHost
+WA    : +62896296205744
 Base  : BochilTeam
 `)
 
