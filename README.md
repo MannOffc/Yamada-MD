@@ -1,4 +1,4 @@
-# Yamada - MD Is Bot WhatsApp Simple Cloning Nao-MD
+# Yamada-MD Is Bot WhatsApp Simple Cloning Nao-MD
 <p align="center">
     <img src="https://telegra.ph/file/363a869d9e32ca8d21b47.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
