@@ -32,49 +32,50 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.owner = [['62896296205744', 'MannHost', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorbot = '62896296205740'
+global.nomorown = '62896296205744'
 global.nomorwa = '0'
 
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'ShirokamiRyzen'
-global.namebot = 'Nao-Botz V5'
-global.wm = '© NaoBotz By ShirokamiRyzen'
+global.author = 'MannHost'
+global.namebot = 'Yamada-MD'
+global.wm = '© Yamada-MD By MannHost'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/ShirokamiRyzen\n\nNao-Bot\n+6285864034767`
-global.stickauth = `© NaoBotz By ShirokamiRyzen`
+global.stickpack = `Yamada-MD`
+global.stickauth = `© Yamada By MannHost`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 /*============= OWNER INFO =============*/
-global.nameown1= 'Ryzn'
-global.nameown2 = 'Ryzn'
+global.nameown1= 'MannHost'
+global.nameown2 = 'MannHost'
 /*============= MEDIA LINK =============*/
-global.Linkgc = 'Bentar'
+global.Linkgc = 'https://chat.whatsapp.com/Imh14DDCoEO3lQePIvkdfN'
 global.lynk = ''
+global.yamada = 'https://telegra.ph/file/363a869d9e32ca8d21b47.jpg'
 
 
 //*============= SOSMED =============*/
-global.sig = 'https://www.instagram.com/ryzen_vermillion'
-global.sgh = 'https://github.com/ShirokamiRyzen' //github
+global.sig = 'https://www.instagram.com/hyugimura'
+global.sgh = 'https://github.com/MannOffc' //github
 global.sgc = '-' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.instagram.com/ryzen_vermillion'
+global.snh = 'https://www.instagram.com/hyugimura'
 
 /*============= DONASI =============*/
-global.pdana = '085174269046'
+global.pdana = '6289509419214'
 global.povo = '-'
-global.pgopay = '085174269046'
+global.pgopay = '6289509419214'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085174269046'
-global.ppulsa2 = '085174269046'
+global.ppulsa = '6289509419214'
+global.ppulsa2 = '6289509419214'
 global.psaweria = '-'
 
 
@@ -116,9 +117,11 @@ global.lolkey = 'SGWN' //buy API at https://api.lolhuman.xyz
 global.xzn = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://skizo.tech/
 global.xyro = 'YOUR_APIKEY_HERE' //https://api.xyroinee.xyz/
 global.ryzen = 'YOUR_APIKEY_HERE' //daftar di api.ryzendesu.com/
+global.manpikey = 'zenkey_ae110e5bf705'
 
 global.APIs = {
   // name: 'https://website'
+  alfa: 'https://api.zahwazein.xyz',
   lol: 'https://api.lolhuman.xyz',
   violetics : 'https://violetics.pw',
   males : 'https://api.lolhuman.xyz',
@@ -127,6 +130,7 @@ global.APIs = {
 
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
+  'https://api.zahwazein.xyz': 'zenkey_ae110e5bf705',
   'https://api.lolhuman.xyz': 'SGWN',
   'https://violetics.pw': 'beta',
   'https://skizo.tech' : '',
@@ -141,15 +145,15 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg'
-global.giflogo = 'https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg'
-global.thumbs = ['https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg']
+global.thumb = 'https://telegra.ph/file/363a869d9e32ca8d21b47.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/363a869d9e32ca8d21b47.jpg'
+global.giflogo = 'https://telegra.ph/file/363a869d9e32ca8d21b47.jpg'
+global.thumbs = ['https://telegra.ph/file/363a869d9e32ca8d21b47.jpg']
 global.thumbnailUrl = [
-  'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg'
+  'https://telegra.ph/file/363a869d9e32ca8d21b47.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/363a869d9e32ca8d21b47.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/363a869d9e32ca8d21b47.jpg' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=",
@@ -164,7 +168,7 @@ global.fla = [
  "https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text=",
  "https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text="
 ]
-global.hwaifu = ['https://telegra.ph/file/a7ac2b46f82ef7ea083f9.jpg']
+global.hwaifu = ['https://telegra.ph/file/363a869d9e32ca8d21b47.jpg']
 global.thumblvlup = [
   'https://telegra.ph/file/cc444e235a6073ef29b32.jpg',
   'https://telegra.ph/file/6bc4e87932d7ea57b79ef.jpg',
@@ -173,9 +177,9 @@ global.thumblvlup = [
 ]
 
 global.dtu = 'INSTAGRAM'
-global.urlnya = "https://www.instagram.com/ryzen_vermillion"
+global.urlnya = "https://www.instagram.com/hyugimura"
 global.dtc = 'CALL OWNER'
-global.phn = '0813 8730 7198'
+global.phn = '62896296205744'
 
 
 /*============= JANGAN DIUBAH =============*/
@@ -193,7 +197,7 @@ watchFile(file, () => {
 /*============= RESPON GAME =============*/
 global.benar = 'Good Job! ◕◡◕'
 global.salah = 'Not Bad! ◕◠◕'
-global.dikit = "Dikit Lagi, Semangat!!"
+global.dikit = "Dikit Lagi, Gambare!!"
 
 
 /*============= RPG GAME =============*/
