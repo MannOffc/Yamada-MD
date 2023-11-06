@@ -1,3 +1,4 @@
+require ('./config')
 import { promises } from 'fs'
 import { join } from 'path'
 import { xpRange } from '../lib/levelling.js'
@@ -207,7 +208,7 @@ let tags = {
  
  //ganti gambar di folder media
  //let fotonya = 'link_gambar'
- conn.sendMessage(m.chat, { image: fs.readFileSync('./media/own.jpg'), caption: text.trim()}, { quoted: fkon })
+ conn.sendMessage(m.chat, { imageUrl: "${global.yamada}", caption: text.trim()}, { quoted: fkon })
   } catch (e) {
     conn.reply(m.chat, 'Maaf, menu sedang error', m)
     throw e
